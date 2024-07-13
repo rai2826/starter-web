@@ -15,3 +15,6 @@ modifying the sanme file again
 ## Purpose
 
 Sample website with plenty of files for demos
+
+###copywright
+2014.gitlog
